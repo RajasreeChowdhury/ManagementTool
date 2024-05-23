@@ -1,0 +1,172 @@
+[
+  {
+    "id": "E001",
+    "name": "Sarmila Rathore",
+    "performanceReport": {
+      "taskCompletionRate": "95%",
+      "avgTaskCompletionTime": "2 days",
+      "taskOverdueRate": "5%"
+    },
+    "workloadReport": {
+      "currentTaskLoad": 10,
+      "taskPriorityDistribution": { "high": 3, "medium": 5, "low": 2 }
+    },
+    "productivityReport": {
+      "tasksCompletedPerMonth": [5, 6, 7, 8, 9, 5, 7],
+      "hoursLogged": [40, 42, 38, 40, 36, 39, 41]
+    }
+  },
+  {
+    "id": "E002",
+    "name": "Debjani Das",
+    "performanceReport": {
+      "taskCompletionRate": "85%",
+      "avgTaskCompletionTime": "3 days",
+      "taskOverdueRate": "15%"
+    },
+    "workloadReport": {
+      "currentTaskLoad": 8,
+      "taskPriorityDistribution": { "high": 2, "medium": 3, "low": 3 }
+    },
+    "productivityReport": {
+      "tasksCompletedPerMonth": [4, 5, 6, 7, 5, 6, 4],
+      "hoursLogged": [35, 36, 34, 35, 37, 33, 36]
+    }
+  },
+  {
+    "id": "E003",
+    "name": "Sarbani Das",
+    "performanceReport": {
+      "taskCompletionRate": "90%",
+      "avgTaskCompletionTime": "2.5 days",
+      "taskOverdueRate": "10%"
+    },
+    "workloadReport": {
+      "currentTaskLoad": 12,
+      "taskPriorityDistribution": { "high": 4, "medium": 4, "low": 4 }
+    },
+    "productivityReport": {
+      "tasksCompletedPerMonth": [6, 7, 8, 9, 7, 6, 8],
+      "hoursLogged": [42, 43, 40, 41, 39, 42, 43]
+    }
+  },
+  {
+    "id": "E004",
+    "name": "Debosri Chowdhury",
+    "performanceReport": {
+      "taskCompletionRate": "88%",
+      "avgTaskCompletionTime": "3 days",
+      "taskOverdueRate": "12%"
+    },
+    "workloadReport": {
+      "currentTaskLoad": 9,
+      "taskPriorityDistribution": { "high": 3, "medium": 3, "low": 3 }
+    },
+    "productivityReport": {
+      "tasksCompletedPerMonth": [5, 6, 7, 6, 5, 6, 7],
+      "hoursLogged": [38, 39, 37, 38, 40, 38, 39]
+    }
+  },
+  {
+    "id": "E005",
+    "name": "Kalpana Chowdhury",
+    "performanceReport": {
+      "taskCompletionRate": "92%",
+      "avgTaskCompletionTime": "2.2 days",
+      "taskOverdueRate": "8%"
+    },
+    "workloadReport": {
+      "currentTaskLoad": 11,
+      "taskPriorityDistribution": { "high": 3, "medium": 5, "low": 3 }
+    },
+    "productivityReport": {
+      "tasksCompletedPerMonth": [7, 8, 9, 10, 8, 7, 9],
+      "hoursLogged": [45, 44, 43, 45, 42, 43, 44]
+    }
+  },
+  {
+    "id": "E006",
+    "name": "Sucheta Das",
+    "performanceReport": {
+      "taskCompletionRate": "87%",
+      "avgTaskCompletionTime": "3.1 days",
+      "taskOverdueRate": "13%"
+    },
+    "workloadReport": {
+      "currentTaskLoad": 10,
+      "taskPriorityDistribution": { "high": 4, "medium": 4, "low": 2 }
+    },
+    "productivityReport": {
+      "tasksCompletedPerMonth": [6, 7, 8, 7, 6, 5, 8],
+      "hoursLogged": [40, 39, 40, 41, 38, 40, 42]
+    }
+  },
+  {
+    "id": "E007",
+    "name": "Anushka Jain",
+    "performanceReport": {
+      "taskCompletionRate": "89%",
+      "avgTaskCompletionTime": "2.8 days",
+      "taskOverdueRate": "11%"
+    },
+    "workloadReport": {
+      "currentTaskLoad": 13,
+      "taskPriorityDistribution": { "high": 5, "medium": 4, "low": 4 }
+    },
+    "productivityReport": {
+      "tasksCompletedPerMonth": [8, 9, 10, 11, 9, 8, 10],
+      "hoursLogged": [42, 43, 41, 42, 39, 40, 41]
+    }
+  },
+  {
+    "id": "E008",
+    "name": "Rocky Sharma",
+    "performanceReport": {
+      "taskCompletionRate": "93%",
+      "avgTaskCompletionTime": "2.3 days",
+      "taskOverdueRate": "7%"
+    },
+    "workloadReport": {
+      "currentTaskLoad": 7,
+      "taskPriorityDistribution": { "high": 2, "medium": 3, "low": 2 }
+    },
+    "productivityReport": {
+      "tasksCompletedPerMonth": [5, 6, 7, 6, 7, 8, 6],
+      "hoursLogged": [38, 37, 36, 39, 38, 37, 38]
+    }
+  },
+  {
+    "id": "E009",
+    "name": "Sirin Ayoub",
+    "performanceReport": {
+      "taskCompletionRate": "91%",
+      "avgTaskCompletionTime": "2.6 days",
+      "taskOverdueRate": "9%"
+    },
+    "workloadReport": {
+      "currentTaskLoad": 9,
+      "taskPriorityDistribution": { "high": 3, "medium": 4, "low": 2 }
+    },
+    "productivityReport": {
+      "tasksCompletedPerMonth": [7, 8, 9, 10, 9, 8, 9],
+      "hoursLogged": [41, 42, 40, 39, 38, 39, 41]
+    }
+  },
+  {
+    "id": "E010",
+    "name": "Deep Jadav",
+    "performanceReport": {
+      "taskCompletionRate": "94%",
+      "avgTaskCompletionTime": "2.4 days",
+      "taskOverdueRate": "6%"
+    },
+    "workloadReport": {
+      "currentTaskLoad": 8,
+      "taskPriorityDistribution": { "high": 2, "medium": 4, "low": 2 }
+    },
+    "productivityReport": {
+      "tasksCompletedPerMonth": [6, 7, 8, 7, 6, 7, 8],
+      "hoursLogged": [38, 39, 37, 38, 39, 37, 39]
+    }
+  }
+]

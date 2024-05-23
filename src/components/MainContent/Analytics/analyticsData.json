@@ -1,0 +1,172 @@
+[
+  {
+    "id": "E001",
+    "name": "Sarmila Rathore",
+    "employeeEngagementAnalytics": {
+      "engagementScores": 95,
+      "engagementDays": 2,
+      "EngagementTrends": 5
+    },
+    "skillAndDevelopmentAnalytics": {
+      "skillGapAnalysis": 10,
+      "careerProgression": { "high": 3, "medium": 5, "low": 2 }
+    },
+    "diversityAndInclusionAnalytics": {
+      "monthlyTaskCompletionTrends": [5, 6, 7, 8, 9, 5, 7],
+      "hourlyEngagementPatterns": [40, 42, 38, 40, 36, 39, 41]
+    }
+  },
+  {
+    "id": "E002",
+    "name": "Debjani Das",
+    "employeeEngagementAnalytics": {
+      "engagementScores": 85,
+      "engagementDays": 3,
+      "EngagementTrends": 15
+    },
+    "skillAndDevelopmentAnalytics": {
+      "skillGapAnalysis": 8,
+      "careerProgression": { "high": 2, "medium": 3, "low": 3 }
+    },
+    "diversityAndInclusionAnalytics": {
+      "monthlyTaskCompletionTrends": [4, 5, 6, 7, 5, 6, 4],
+      "hourlyEngagementPatterns": [35, 36, 34, 35, 37, 33, 36]
+    }
+  },
+  {
+    "id": "E003",
+    "name": "Sarbani Das",
+    "employeeEngagementAnalytics": {
+      "engagementScores": 90,
+      "engagementDays": 2.5,
+      "EngagementTrends": 10
+    },
+    "skillAndDevelopmentAnalytics": {
+      "skillGapAnalysis": 9,
+      "careerProgression": { "high": 3, "medium": 4, "low": 2 }
+    },
+    "diversityAndInclusionAnalytics": {
+      "monthlyTaskCompletionTrends": [5, 7, 8, 6, 7, 5, 6],
+      "hourlyEngagementPatterns": [38, 40, 42, 41, 39, 38, 40]
+    }
+  },
+  {
+    "id": "E004",
+    "name": "Debosri Chowdhury",
+    "employeeEngagementAnalytics": {
+      "engagementScores": 88,
+      "engagementDays": 3,
+      "EngagementTrends": 12
+    },
+    "skillAndDevelopmentAnalytics": {
+      "skillGapAnalysis": 7,
+      "careerProgression": { "high": 2, "medium": 4, "low": 1 }
+    },
+    "diversityAndInclusionAnalytics": {
+      "monthlyTaskCompletionTrends": [6, 5, 7, 8, 5, 6, 7],
+      "hourlyEngagementPatterns": [36, 34, 37, 36, 38, 39, 35]
+    }
+  },
+  {
+    "id": "E005",
+    "name": "Kalpana Chowdhury",
+    "employeeEngagementAnalytics": {
+      "engagementScores": 92,
+      "engagementDays": 2,
+      "EngagementTrends": 8
+    },
+    "skillAndDevelopmentAnalytics": {
+      "skillGapAnalysis": 11,
+      "careerProgression": { "high": 4, "medium": 5, "low": 2 }
+    },
+    "diversityAndInclusionAnalytics": {
+      "monthlyTaskCompletionTrends": [7, 8, 9, 7, 8, 6, 7],
+      "hourlyEngagementPatterns": [40, 41, 42, 39, 38, 37, 36]
+    }
+  },
+  {
+    "id": "E006",
+    "name": "Sucheta Das",
+    "employeeEngagementAnalytics": {
+      "engagementScores": 87,
+      "engagementDays": 3.5,
+      "EngagementTrends": 13
+    },
+    "skillAndDevelopmentAnalytics": {
+      "skillGapAnalysis": 8,
+      "careerProgression": { "high": 3, "medium": 3, "low": 2 }
+    },
+    "diversityAndInclusionAnalytics": {
+      "monthlyTaskCompletionTrends": [6, 5, 6, 7, 6, 5, 4],
+      "hourlyEngagementPatterns": [34, 36, 35, 37, 36, 35, 34]
+    }
+  },
+  {
+    "id": "E007",
+    "name": "Anushka Jain",
+    "employeeEngagementAnalytics": {
+      "engagementScores": 93,
+      "engagementDays": 2.2,
+      "EngagementTrends": 7
+    },
+    "skillAndDevelopmentAnalytics": {
+      "skillGapAnalysis": 10,
+      "careerProgression": { "high": 3, "medium": 4, "low": 3 }
+    },
+    "diversityAndInclusionAnalytics": {
+      "monthlyTaskCompletionTrends": [8, 7, 6, 9, 8, 7, 6],
+      "hourlyEngagementPatterns": [42, 40, 39, 41, 40, 39, 38]
+    }
+  },
+  {
+    "id": "E008",
+    "name": "Rocky Sharma",
+    "employeeEngagementAnalytics": {
+      "engagementScores": 89,
+      "engagementDays": 3,
+      "EngagementTrends": 11
+    },
+    "skillAndDevelopmentAnalytics": {
+      "skillGapAnalysis": 9,
+      "careerProgression": { "high": 2, "medium": 5, "low": 2 }
+    },
+    "diversityAndInclusionAnalytics": {
+      "monthlyTaskCompletionTrends": [6, 7, 8, 5, 6, 7, 8],
+      "hourlyEngagementPatterns": [35, 36, 38, 37, 36, 35, 34]
+    }
+  },
+  {
+    "id": "E009",
+    "name": "Sirin Ayoub",
+    "employeeEngagementAnalytics": {
+      "engagementScores": 91,
+      "engagementDays": 2.8,
+      "EngagementTrends": 9
+    },
+    "skillAndDevelopmentAnalytics": {
+      "skillGapAnalysis": 10,
+      "careerProgression": { "high": 4, "medium": 4, "low": 2 }
+    },
+    "diversityAndInclusionAnalytics": {
+      "monthlyTaskCompletionTrends": [7, 8, 7, 6, 7, 8, 9],
+      "hourlyEngagementPatterns": [39, 38, 40, 39, 38, 37, 36]
+    }
+  },
+  {
+    "id": "E010",
+    "name": "Deep Jadav",
+    "employeeEngagementAnalytics": {
+      "engagementScores": 86,
+      "engagementDays": 3.2,
+      "EngagementTrends": 14
+    },
+    "skillAndDevelopmentAnalytics": {
+      "skillGapAnalysis": 7,
+      "careerProgression": { "high": 2, "medium": 3, "low": 2 }
+    },
+    "diversityAndInclusionAnalytics": {
+      "monthlyTaskCompletionTrends": [5, 6, 7, 8, 5, 6, 7],
+      "hourlyEngagementPatterns": [34, 36, 38, 35, 37, 36, 35]
+    }
+  }
+]

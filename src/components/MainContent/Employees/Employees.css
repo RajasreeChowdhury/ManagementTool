@@ -1,0 +1,58 @@
+.employees {
+  padding: 20px;
+  height : 100vh;
+  overflow-y: scroll;
+}
+
+.employees h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #444;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); 
+  letter-spacing: 0.1rem; 
+}
+
+.employees table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+.employees th,
+.employees td {
+  border: 1px solid #d6cd4c;
+  padding: 8px;
+  text-align: left;
+}
+
+.employees th {
+  background-color: #d9fda0;
+}
+.employees td {
+  background-color:#eefdd5;
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.pagination button {
+  background-color: #f4f4f4;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.pagination button:hover {
+  background-color: #ddd;
+}
+
+.pagination button:disabled {
+  background-color: #ddd;
+  cursor: not-allowed;
+}
